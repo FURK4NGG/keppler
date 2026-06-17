@@ -9,11 +9,11 @@
 Start keppler inside your project folder, share the URL with your audience and start coding.
 Any time you save a file, viewers will receive those changes. They can browse through the files, go back in history, copy the code, download the project, preview images, chat with other viewers, ask the presenter to slow down, etc.
 
-<img width="700" src="https://github.com/brunosimon/keppler/raw/master/resources/screenshots/screen-project-1.png" alt="Keppler Demo Image">
+<img width="700" src="https://github.com/FURK4NGG/keppler/blob/master/%7B%7D/keppler-1.png" alt="Keppler Demo Image">
 
-<img width="700" src="https://github.com/brunosimon/keppler/raw/master/resources/screenshots/screen-project-2.png" alt="Keppler Demo Image">
+<img width="700" src="https://github.com/FURK4NGG/keppler/blob/master/%7B%7D/keppler-2.png" alt="Keppler Demo Image">
 
-<img width="700" src="https://github.com/brunosimon/keppler/raw/master/resources/screenshots/screen-project-3.png" alt="Keppler Demo Image">
+<img width="700" src="https://github.com/FURK4NGG/keppler/blob/master/%7B%7D/keppler-3.png" alt="Keppler Demo Image">
 
 ## User instructions
 
